@@ -1,5 +1,6 @@
 # Energy-Production-Distribution-Safety
 Specialization Certificate
+
 M Haider Iqbal has successfully completed the online, non-credit Specialization Energy Production, Distribution &amp; Safety In this specialization, learners were exposed to the energy industry - including its structure, energy origins, constraints, pricing and regulations - as well as the impact of emerging disruptive technologies and renewable energies on the evolution of the Smart Grid. Learners developed a working knowledge of a modern electrical power system and the components, foundational electric power instruments and machinery, and the interactions between energy and the environment. They gained insights into the basic properties of natural gas, operations of its distribution, basic field skills required, the liquefaction of natural gas, and standard energy industry safety practices and OSHA regulations.
 Electric Power Systems
 Natural Gas
